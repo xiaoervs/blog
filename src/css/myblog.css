@@ -151,9 +151,7 @@ ul{
 .btn:focus,input:focus{
     outline: none;   /*文本框不显示线条*/
 }
-.logo:hover{
-    box-shadow: 0 0 20px rgba(255, 255, 255,0.5);
-}
+
 .back{
     background-color: red;
 }
